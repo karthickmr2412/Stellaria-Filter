@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/91790/AppData/Local/Temp/5b80-3942-7e10-6109/1153079f2e75c51efc449d9386c9a8364afb6f",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/91790/AppData/Local/Temp/5b80-3942-7e10-6109/1153079f2e75c51efc449d9386c9a8364afb6f/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/91790/AppData/Local/Temp/5b80-3942-7e10-6109/1153079f2e75c51efc449d9386c9a8364afb6f/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
